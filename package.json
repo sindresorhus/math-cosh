@@ -1,0 +1,42 @@
+{
+  "name": "math-cosh",
+  "version": "0.0.0",
+  "description": "ES6 Math.cosh() ponyfill",
+  "license": "MIT",
+  "repository": "sindresorhus/math-cosh",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "es6",
+    "es2015",
+    "ecmascript",
+    "harmony",
+    "ponyfill",
+    "polyfill",
+    "shim",
+    "number",
+    "math",
+    "cosh",
+    "hyperbolic",
+    "cosine"
+  ],
+  "dependencies": {
+    "is-finite": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "0.0.4",
+    "number-is-nan": "^1.0.0"
+  }
+}
