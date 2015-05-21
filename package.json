@@ -1,6 +1,6 @@
 {
   "name": "math-cosh",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ES6 Math.cosh() ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/math-cosh",
