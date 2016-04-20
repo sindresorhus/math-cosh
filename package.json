@@ -1,7 +1,7 @@
 {
   "name": "math-cosh",
   "version": "1.0.0",
-  "description": "ES6 Math.cosh() ponyfill",
+  "description": "ES2015 Math.cosh() ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/math-cosh",
   "author": {
@@ -19,10 +19,7 @@
     "index.js"
   ],
   "keywords": [
-    "es6",
     "es2015",
-    "ecmascript",
-    "harmony",
     "ponyfill",
     "polyfill",
     "shim",
