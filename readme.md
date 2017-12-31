@@ -6,14 +6,14 @@
 ## Install
 
 ```
-$ npm install --save math-cosh
+$ npm install math-cosh
 ```
 
 
 ## Usage
 
 ```js
-var mathCosh = require('math-cosh');
+const mathCosh = require('math-cosh');
 
 mathCosh(1);
 //=> 1.5430806348152437
@@ -22,4 +22,4 @@ mathCosh(1);
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](https://sindresorhus.com)

@@ -3,7 +3,7 @@ import numberIsNan from 'number-is-nan';
 import floatEqual from 'float-equal';
 
 Math.cosh = undefined;
-const cosh = require('./');
+const cosh = require('.');
 
 test(t => {
 	t.true(numberIsNan(cosh(NaN)));
