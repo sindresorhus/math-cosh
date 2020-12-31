@@ -1,4 +1,4 @@
-# math-cosh [![Build Status](https://travis-ci.org/sindresorhus/math-cosh.svg?branch=master)](https://travis-ci.org/sindresorhus/math-cosh)
+# math-cosh
 
 > ES2015 [`Math.cosh()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cosh) [ponyfill](https://ponyfill.com)
 
