@@ -1,3 +1,7 @@
+Deprecated as this is now natively available in all modern browsers and Node.js versions.
+
+---
+
 # math-cosh
 
 > ES2015 [`Math.cosh()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cosh) [ponyfill](https://ponyfill.com)
